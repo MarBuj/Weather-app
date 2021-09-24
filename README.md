@@ -1,4 +1,4 @@
-Project of Weather APP with 3rd party API integration for https://openweathermap.org/.
+Project of Weather APP with 3rd party API integration from https://openweathermap.org/.
 
 Main stack:
 - HTML;
