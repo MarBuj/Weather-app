@@ -1,3 +1,5 @@
+DEMO: https://marbuj.github.io/Weather-app/
+
 Project of Weather APP with 3rd party API integration from https://openweathermap.org/.
 
 Main stack:
